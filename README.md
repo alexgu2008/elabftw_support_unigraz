@@ -7,6 +7,10 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_BioHealth_Guide_User_en.pdf)
 2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_Biohealth_Guide_TeamAdmin_en.pdf)
 
+## API Tutorial
+
+[eLabFTW API Support Page](https://alexgu2008.github.io/elabftw_api_support_unigraz/)
+
 ## Contact
 
 *SysAdmin:* *Alexander* *Gruber*<br>
