@@ -13,8 +13,8 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 ## Contact
 
-*SysAdmin:* *Alexander* *Gruber*<br>
-<alexander.gruber@tugraz.at>
+*SysAdmin:* *Alexander* *Bardel*<br>
+<alexander.bardel@tugraz.at>
 
 ## FAQ
 
