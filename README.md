@@ -51,9 +51,28 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 ## Overview of permissions management in eLabFTW <a name="overview_permissions"></a>
 
+Configuration options are identical for viewing and writing permissions. Entries always have permission settings that are anchored in the base settings. these are taken from the personal default settings or from template settings, but can be changed. Adding one or more teams, team groups or individual users is optional and can, but does not have to be done. Exception: Admin has forced the use of certain permission settings in the team settings.
+![](permissions_user.png)
+
 ## Tip: Leaving a team/group or the tool <a name="leaving_user"></a>
 
+![](User_Exit.png)
+When a user leaves a team, a group or the entire tool, it makes sense to have an offboarding strategy in place beforehand. In the three cases mentioned above, there are a few important points to consider when dealing with eLabFTW. As a user, it is important to remember which entries do not belong to you but you want to keep the information. As an admin or other user of the team, it is also important to think about this point in relation to the entries of the departing user. Entries can be duplicated for further use or exported for external archiving. If you leave the tool as a user, you should always export relevant entries, as you will lose access to them. If you are also the owner of database entries, transfer ownership to the admin of your team.
+
 ## Backup options for users <a name="backup_user"></a>
+
+If you want to save your entries from eLabFTW externally, i.e. on your computer or on another storage medium, this is possible in different ways. We distinguish here between entries in experiments and in the database.
+
+**Experiments**
+    You can select one or more entries via the web interface and export them directly. Several formats are        available, which can be selected depending on the application. The entry itself remains after the export.     You can also export an entry via the view of an individual entry. Depending on the view, you have             different formats available for export. First check which one you need before exporting the entry(s).
+    You can export all your experiments in one go via your "Profile". This is possible in different formats.      However, only experiments for which you are the owner can be exported.
+
+    *Option for admins: As an admin, you can perform all experiments of a user in different formats via the       Admin Panel. You can also export database objects and bookings in the calendar here.*
+
+    *Option via API: Coming soon (only timestamped entries)*
+
+**Database**
+    You can select one or more entries via the web interface and export them directly. Again, several formats     are available, which can be selected depending on the application. The entry itself remains after the         export. You can also export an entry via the view of an individual entry. Depending on the view, you have     different formats available for export. First check which one you need before exporting the entry(s).
 
 ## Contact <a name="contact"></a>
 
