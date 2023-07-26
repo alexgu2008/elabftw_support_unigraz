@@ -2,19 +2,22 @@ eLabFTW is an electronic solution to the classic lab notebook and offers many ad
 
 The page is intended to provide support for the use of eLabFTW. You will find manuals for users and admins of teams in eLabFTW. You will also find a list of frequently asked questions. If you have a question or request about eLabFTW (e.g. create a team or add a user) please contact the SysAdmin.
 
-## Manuals
+## Table of contents
+1. [Manuals](#manuals)
+2. [API Tutorial](#api_tutorial)
+3. [Overview of permissions management in eLabFTW](#overview_permissions)
+4. [Tip: Leaving a team/group or the tool](#leaving_user)
+5. [Backup options for users](#backup_user)
+6. [Contact](#contact)
+
+## Manuals <a name="manuals"></a>
 
 1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_BioHealth_Guide_User_en.pdf)
 2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_Biohealth_Guide_TeamAdmin_en.pdf)
 
-## API Tutorial
+## API Tutorial <a name="api_tutorial"></a>
 
 [eLabFTW API Support Page](https://alexgu2008.github.io/elabftw_api_support_unigraz/)
-
-## Contact
-
-*SysAdmin:* *Alexander* *Bardel*<br>
-<alexander.bardel@tugraz.at>
 
 ## FAQ
 
@@ -45,4 +48,14 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 > **Where is the data located and is it secure?**
 > 
 > The data is stored on the servers of the IT services of UNI Graz and is protected by their security measures.
-Footer
+
+## Overview of permissions management in eLabFTW <a name="overview_permissions"></a>
+
+## Tip: Leaving a team/group or the tool <a name="leaving_user"></a>
+
+## Backup options for users <a name="backup_user"></a>
+
+## Contact <a name="contact"></a>
+
+*SysAdmin:* *Alexander* *Bardel*<br>
+<alexander.bardel@tugraz.at>
