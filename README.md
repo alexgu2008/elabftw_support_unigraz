@@ -79,4 +79,4 @@ If you want to save your entries from eLabFTW externally, i.e. on your computer 
 ## Contact <a name="contact"></a>
 
 *SysAdmin:* *Alexander* *Bardel*<br>
-<alexander.bardel@tugraz.at>
+<alexander.bardel@tugraz.at> 
