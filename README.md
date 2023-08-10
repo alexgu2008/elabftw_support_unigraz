@@ -72,7 +72,7 @@ If you want to save your entries from eLabFTW externally, i.e. on your computer 
 
   * *Option via API: Coming soon (only timestamped entries)*
 
-* **Database**
+* **Resources**
 
   * You can select one or more entries via the web interface and export them directly. Again, several formats     are available, which can be selected depending on the application. The entry itself remains after the         export. You can also export an entry via the view of an individual entry. Depending on the view, you have     different formats available for export. First check which one you need before exporting the entry(s).
 
