@@ -6,9 +6,10 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 1. [Manuals](#manuals)
 2. [API Tutorial](#api_tutorial)
 3. [Overview of permissions management in eLabFTW](#overview_permissions)
-4. [Tip: Leaving a team/group or the tool](#leaving_user)
-5. [Backup options for users](#backup_user)
-6. [Contact](#contact)
+4. [Export of entries](#export_entries)
+5. [Tip: Leaving a team/group or the tool](#leaving_user)
+6. [Backup options for users](#backup_user)
+7. [Contact](#contact)
 
 ## Manuals <a name="manuals"></a>
 
@@ -54,7 +55,7 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 Configuration options are identical for viewing and writing permissions. Entries always have permission settings that are anchored in the base settings. these are taken from the personal default settings or from template settings, but can be changed. Adding one or more teams, team groups or individual users is optional and can, but does not have to be done. Exception: Admin has forced the use of certain permission settings in the team settings.
 ![](permissions_user.png)
 
-## Export of entries
+## Export of entries <a name="export_entries"></a>
 Depending on the section in eLabFTW, different export formats are available for one or more entries. This allows you to use your documentation externally or, for example, as additional information for publications or audits. Below you will find an overview of the available export formats and a short description.
 ![](Export_formats.png)
 
