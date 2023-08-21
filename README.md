@@ -32,7 +32,7 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 > **Can I have diffenrnet roles (User, Admin) in different teams?**
 > 
-> No, the role in eLabFTW is system-wide. This means that you are a user or admin in all teams to which you belong.
+> Yes, depending on the team, you can be either a regular user or a team admin.
 
 > **Do I need additional software on my device?**
 > 
