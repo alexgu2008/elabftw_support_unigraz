@@ -34,6 +34,10 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 > 
 > Yes, depending on the team, you can be either a regular user or a team admin.
 
+> **Is it possible to use edits on a shared experiment by highlighting the different users in colour?**
+> 
+> For the text editor, you can agree in advance on a font color per user and thus keep track. A change tracking like Word is not possible at the moment. All other changes can be tracked via the changelog (depending on the minimum number of characters).
+
 > **Do I need additional software on my device?**
 > 
 > Not really, but you need a browser like Chrome or Firefox or similar and an active internet connection.
@@ -49,6 +53,19 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 > **Where is the data located and is it secure?**
 > 
 > The data is stored on the servers of the IT services of UNI Graz and is protected by their security measures.
+
+> **Can I link files from my local hard drives?**
+> 
+> In principle you can get the local file path from any folder and then save it e.g. in eLabFTW in the editor section. This would again work like a link, but eLabFTW is not a local application and therefore the file explorer is not opened directly (because currently addresses that are not web addresses are filtered out). 
+Whenever needed, you can copy the saved address and paste it in the file explorer again and so indirectly create a connection. So it is enough to save the file path as text element in eLabFTW.
+
+> **Can I change "Experiments" entries to "Resources" entries?**
+> 
+> Not directly, neither in the one nor in the other direction. But you can export the corresponding entry as .eln format and then import it via the "Import via file" function at the other section. This way you can transfer an experiment object to a resource object and vice versa.
+
+> **As the admin of a team, can I backup/export the whole team at once?**
+> 
+> No. There is no separate function which would take over this task explicitly, but you can sort in the experiment or resource overview and select all entries with "Select All" and then export them at the same time.
 
 ## Overview of permissions management in eLabFTW <a name="overview_permissions"></a>
 
