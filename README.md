@@ -83,7 +83,7 @@ When a user leaves a team, a group or the entire tool, it makes sense to have an
 
 ## Backup options for users <a name="backup_user"></a>
 
-If you want to save your entries from eLabFTW externally, i.e. on your computer or on another storage medium, this is possible in different ways. We distinguish here between entries in experiments and in the database.
+If you want to save your entries from eLabFTW externally, i.e. on your computer or on another storage medium, this is possible in different ways. We distinguish here between entries in experiments and in resources.
 
 * **Experiments**
 
