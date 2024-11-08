@@ -13,8 +13,8 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 ## Manuals <a name="manuals"></a>
 
-1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_BioHealth_Guide_User_en_v1.3.pdf)
-2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_Biohealth_Guide_TeamAdmin_en_v1.4.pdf)
+1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_BioHealth_Guide_User_en_v2.pdf)
+2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/raw/main/eLabFTW_Biohealth_Guide_TeamAdmin_en_v2.pdf)
 
 ## API Tutorial <a name="api_tutorial"></a>
 
