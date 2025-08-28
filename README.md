@@ -13,9 +13,9 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 ## Manuals <a name="manuals"></a>
 
-1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v2.1.pdf) [New User Guide (valid from 28.08.2025)](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v3.0.pdf)
-2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v2.1.pdf) [New Team Admin Guide (valid from 28.08.2025)](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v3.0.pdf)
-3. [External Accounts / 2FA-Setup (valid from 28.08.2025)](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_2FA_Setup_en.pdf)
+1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v3.0.pdf)
+2. [New Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v3.0.pdf)
+3. [External Accounts / 2FA-Setup](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_2FA_Setup_en.pdf)
 
 ## API Tutorial <a name="api_tutorial"></a>
 
@@ -29,7 +29,7 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 
 > **How can I join a specific team?**
 > 
-> You can select the team you want when you register. If you want to change teams afterwards, please contact the team admin or the SysAdmin.
+> When you log in for the first time, you will automatically be added to the UNI Graz General Team as a member of the University of Graz. If you are already registered in another team, you will be logged in there. If you want to change teams afterwards, please contact the team admin or the SysAdmin.
 
 > **Can I have diffenrnet roles (User, Admin) in different teams?**
 > 
