@@ -14,7 +14,7 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 ## Manuals <a name="manuals"></a>
 
 1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v3.0.pdf)
-2. [New Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v3.0.pdf)
+2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v3.0.pdf)
 3. [External Accounts / 2FA-Setup](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_2FA_Setup_en.pdf)
 
 ## API Tutorial <a name="api_tutorial"></a>
