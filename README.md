@@ -7,6 +7,7 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 2. [API Tutorial](#api_tutorial)
 3. [Overview of permissions management in eLabFTW](#overview_permissions)
 4. [Export of entries](#export_entries)
+5. [Add users to the team (Admin privileges required)](#add_user)
 5. [Tip: Leaving a team/group or the tool](#leaving_user)
 6. [Backup options for users](#backup_user)
 7. [Contact](#contact)
@@ -76,6 +77,13 @@ Configuration options are identical for viewing and writing permissions. Entries
 ## Export of entries <a name="export_entries"></a>
 Depending on the section in eLabFTW, different export formats are available for one or more entries. This allows you to use your documentation externally or, for example, as additional information for publications or audits. Below you will find an overview of the available export formats and a short description.
 ![](Export_formats.png)
+
+## Add users to the team (Admin privileges required) <a name="add_user"></a>
+
+There are two different ways to do this (both via Admin Panel):
+
+* If the person already exists in the system, you can select “All Teams” and search for the person. The person will then be displayed in a table. In the ‘Actions’ column, click on the three dots and select “Add user to team.”
+* If they do not yet exist in the system, you can also create a new user in the Admin Panel under “Users” and then “Add account.” SSO will uniquely identify the user by their email address
 
 ## Tip: Leaving a team/group or the tool <a name="leaving_user"></a>
 
