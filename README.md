@@ -8,14 +8,13 @@ The page is intended to provide support for the use of eLabFTW. You will find ma
 3. [Overview of permissions management in eLabFTW](#overview_permissions)
 4. [Export of entries](#export_entries)
 5. [Add users to the team (Admin privileges required)](#add_user)
-5. [Tip: Leaving a team/group or the tool](#leaving_user)
 6. [Backup options for users](#backup_user)
 7. [Contact](#contact)
 
 ## Manuals <a name="manuals"></a>
 
-1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v3.0.pdf)
-2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v3.1.pdf)
+1. [User Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_User_en_v4.0.pdf)
+2. [Team Admin Guide](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_Guide_TeamAdmin_en_v4.0.pdf)
 3. [External Accounts / 2FA-Setup](https://github.com/alexgu2008/elabftw_support_unigraz/blob/main/eLabFTW_BioHealth_2FA_Setup_en.pdf)
 
 ## API Tutorial <a name="api_tutorial"></a>
@@ -83,12 +82,7 @@ Depending on the section in eLabFTW, different export formats are available for 
 There are two different ways to do this (both via Admin Panel):
 
 * If the person already exists in the system, you can select “All Teams” and search for the person. The person will then be displayed in a table. In the ‘Actions’ column, click on the three dots and select “Add user to team.”
-* If they do not yet exist in the system, you can also create a new user in the Admin Panel under “Users” and then “Add account.” SSO will uniquely identify the user by their email address
-
-## Tip: Leaving a team/group or the tool <a name="leaving_user"></a>
-
-![](User_Exit.png)
-When a user leaves a team, a group or the entire tool, it makes sense to have an offboarding strategy in place beforehand. In the three cases mentioned above, there are a few important points to consider when dealing with eLabFTW. As a user, it is important to remember which entries do not belong to you but you want to keep the information. As an admin or other user of the team, it is also important to think about this point in relation to the entries of the departing user. Entries can be duplicated for further use or exported for external archiving. If you leave the tool as a user, you should always export relevant entries, as you will lose access to them. If you are also the owner of resource entries, transfer ownership to the admin of your team. Please remember, if you copy other people's entries, to ask the owner for permission first, as it is the intellectual property of the person concerned. 
+* If they do not yet exist in the system, you can also create a new user in the Admin Panel under “Users” and then “Add account.” SSO will uniquely identify the user by their email address 
 
 ## Backup options for users <a name="backup_user"></a>
 
