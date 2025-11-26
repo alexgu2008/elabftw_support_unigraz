@@ -91,11 +91,10 @@ If you want to save your entries from eLabFTW externally, i.e. on your computer 
 * **Experiments**
 
   * You can select one or more entries via the web interface and export them directly. Several formats are        available, which can be selected depending on the application. The entry itself remains after the export.     You can also export an entry via the view of an individual entry. Depending on the view, you have             different formats available for export. First check which one you need before exporting the entry(s).
-  * You can export all your experiments in one go via your "Profile". This is possible in different formats.      However, only experiments for which you are the owner can be exported.
+  * You can export all your experiments in one go via your "Profile". This is possible in different formats. Only experiments for which you are the owner can be exported.
 
   * *Option for admins: As an admin, you can perform all experiments of a user in different formats via the       Admin Panel. You can also export database objects and bookings in the calendar here.*
 
-  * *Option via API: Coming soon (only timestamped entries)*
 
 * **Resources**
 
